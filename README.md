@@ -2,7 +2,7 @@
 
 
 - 💻 Full stack web developer
-- 🌱 Experienced in HTML, CSS, JavaScript, React, and Django.
+- 🌱 Experienced in HTML, CSS, JavaScript, React, Java SpringBoot and Django.
 - 👯 Passionate about creating functional and beautiful projects 🤝
 - 🤔 Always learning and collaborating
 - 🤓 Tinkering with new tech and contributing to open source on GitHub in my free time. 
